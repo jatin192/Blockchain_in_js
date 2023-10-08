@@ -15,12 +15,6 @@ npm i request@2.88.0 --save
 
 npm i hex-to-binary@1.0.1 --save -->
 
-### redis-server should be running in Background
-![image](https://user-images.githubusercontent.com/73174196/211002345-a58fab38-c0fc-4fe6-ab36-9f582e949eac.png)
-
-commands : 
-/etc/init.d/redis-server {start|stop|restart|force-reload|status}    ,    sudo systemctl status redis status
-
 ### How to run?
 npm run dev           ->  listening to port : 3000
 
@@ -38,4 +32,12 @@ using Postman
 
 ### Average time to mine the block
 ![image](https://user-images.githubusercontent.com/73174196/211003791-9879d9b0-58c8-4d58-9c1d-8acb71d0ca53.png)
+
+
+### redis-server should be running in Background
+![image](https://user-images.githubusercontent.com/73174196/211002345-a58fab38-c0fc-4fe6-ab36-9f582e949eac.png)
+
+commands : 
+/etc/init.d/redis-server {start|stop|restart|force-reload|status}    ,    sudo systemctl status redis status
+
 
