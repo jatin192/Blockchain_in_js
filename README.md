@@ -1,7 +1,7 @@
 # Blockchain_in_js
 ### Requirements
 
-npm i redis@2.8.0
+<!-- npm i redis@2.8.0
 
 npm i express --save 
 
@@ -13,7 +13,7 @@ npm i cross-env@5.2.0 --save-dev
 
 npm i request@2.88.0 --save
 
-npm i hex-to-binary@1.0.1 --save
+npm i hex-to-binary@1.0.1 --save -->
 
 ### redis-server should be running in Background
 ![image](https://user-images.githubusercontent.com/73174196/211002345-a58fab38-c0fc-4fe6-ab36-9f582e949eac.png)
